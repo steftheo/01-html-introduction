@@ -23,6 +23,7 @@ ul {
   padding: 0;
 }
 
+
 .top-nav__list {
   max-width: 1040px;
   margin: 0 auto;
@@ -35,10 +36,15 @@ ul {
   font-size: 1.6rem;
   line-height: 3.2rem;
   margin: 0 1rem;
+  color: #F25F5C;
 }
 
 .top-nav__item--brand {
-  float: right;
+  float: left;
+  font-size: 1.6rem;
+  line-height: 3.2rem;
+  margin: 0 1rem;
+  color: #F25F5C;
 }
 
 .top-nav {
@@ -48,7 +54,7 @@ ul {
 
 .content {
   padding: 0 1rem;
-  max-width: 1040px
+  max-width: 1040px;
   margin: auto
 }
 
@@ -74,7 +80,7 @@ ul {
 }
 
 .student-info__social-list {
-  margin: auto
+  margin: auto;
   text-align: center;
 }
 
